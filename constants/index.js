@@ -1,7 +1,7 @@
 // register on rapid api, subscirbe exercise db api and use your api key here
 // https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 
-export const rapidApiKey = 'copy your api key here';
+export const rapidApiKey = 'c4f5af5f13mshe6cce22e4efdf45p14312ajsnd24ce414a27e';
 export const sliderImages = [
     require('../assets/images/slide1.png'),
     require('../assets/images/slide3.png'),
